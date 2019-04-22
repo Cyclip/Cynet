@@ -50,11 +50,13 @@ All modules will be automatically installed, but here is a list of them that you
 
 ## Versions
 ### 1.3:
-+ Migrating to Github
-+ Created Account Checker
+- Migrating to Github
+- Created Account Checker
 - Removed Account Cracker in Account Checker
-+ Code protection for modules
-* Fixed GUI button connection bugs
+- Code protection for modules
+- Fixed GUI button connection bugs
+- Removed code protection for modules
+- Source code is now open-source
 
 ### 1.2 and below
 **Versions 1.2 and below are not available for download or changelogs**
@@ -70,8 +72,22 @@ This project is licensed under the BSD 3-Clause license - see the [LICENSE.md](L
 ## Acknowledgments, stuff to make clear and TOS
 Thanks to Egg.Crack as an inspiration :D
 
-By using this program, you are using it at your own risk and the creator of the program is not liable for any damages. You will not reverse engineer, decompile or use resources (excluding images) for your own use. You cannot attempt to crack encryption that protects .cy files. You may not redistribute the program with or without credit without appending a link to this page, and you may use any part of this program for non-commercial/commercial use without explicit permission from the creator, or claim ownership of the program.
+You may:
+  - Use this program freely without breaking terms
+  - Modify the program to your will and giving credit
+  - Use the source code for your own purpose and giving credit
+  - Appreciated, but not required, to post a link to this page if the program/source code is modified
+  - Use the program in videos or other media but give credit ("Program: Cynet")
+  - Use the program at your own risk
+  - Follow the license
 
-You may use this program freely without breaking any terms above, and use it in videos or other media. It is appreciated, but not required, to also post a link to this website.
+You may not:
+  - Hold the creator liable for any damages
+  - Redistribute the program without explicit permission from the creator. If redistributed, you must add a link to this page, or the download page.
+  - Claim ownership of the program
+  - Copy large chunks of the source code without credit
+
+Please see the license.
+If you copy a large chunk of code, you must credit. You may not copy the entire source code. Copying smaller bits is okay (<60 lines) without credit.
 
 **This is not affiliated with Mojang or Minecraft and not an official product for any Minecraft Servers**
